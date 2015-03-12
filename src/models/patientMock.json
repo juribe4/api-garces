@@ -1,0 +1,204 @@
+[
+    {
+        "name": {
+            "first": "1 Patrick",
+            "firstSurname": "Weis",
+            "secondSurname": "Lander"
+        },
+        "birthDate": "1980-01-03",
+        "gender": "male",
+        "district": "Lince",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "uno@paciente.pe",
+        "phone": "1111111",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "CM",
+            "provenance": "public",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "2 Emmy",
+            "firstSurname": "Jocaru",
+            "secondSurname": "Lander"
+        },
+        "birthDate": "1975-07-03",
+        "gender": "female",
+        "district": "La Molina",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "dos@paciente.pe",
+        "phone": "2222222",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "SI",
+            "provenance": "private",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "3 Miriam",
+            "firstSurname": "Peir",
+            "secondSurname": "Rub"
+        },
+        "birthDate": "1990-11-03",
+        "gender": "female",
+        "district": "San Isidro",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "tres@paciente.pe",
+        "phone": "3333333",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "SF",
+            "provenance": "private",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "4 Tian",
+            "firstSurname": "Trusik",
+            "secondSurname": "Cord"
+        },
+        "birthDate": "1982-07-03",
+        "gender": "male",
+        "district": "San Borja",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "cuatro@paciente.pe",
+        "phone": "4444444",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "SF",
+            "provenance": "public",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "5 Tor",
+            "firstSurname": "Halp",
+            "secondSurname": "Nado"
+        },
+        "birthDate": "1991-02-03",
+        "gender": "male",
+        "district": "Magdalena",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "cinco@paciente.pe",
+        "phone": "555555",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "SI",
+            "provenance": "public",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "6 Jose",
+            "firstSurname": "Roy",
+            "secondSurname": "Naldo"
+        },
+        "birthDate": "1980-07-03",
+        "gender": "male",
+        "district": "La Victoria",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "seis@paciente.pe",
+        "phone": "6666666",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "CM",
+            "provenance": "public",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    },
+
+    {
+        "name": {
+            "first": "7 Paul",
+            "firstSurname": "Lescu",
+            "secondSurname": "Messi"
+        },
+        "birthDate": "1977-05-03",
+        "gender": "male",
+        "district": "Surco",
+        "province": "Lima",
+        "address": "Su casa",
+        "email": "siete@paciente.pe",
+        "phone": "7777777",
+        "mobile": "99999",
+        "maritalStatus": "married",
+        "children": "2",
+        "jobTitle": "Analista de sistemas",
+        "company": "Petroperu SA",
+        "mailing": false,
+        "status": "active",
+        "medicalInfo": {
+            "center": "CM",
+            "provenance": "private",
+            "diagnostic": "Primer diagnóstico",
+            "diseases": "Paciente sin enfermedades pre-existentes",
+            "treatment": "Tratamiento previo"
+        }
+    }
+]

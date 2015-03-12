@@ -1,0 +1,97 @@
+[
+    {
+        "userId": "54d12c6e82f2b7668f5d7041",
+        "symptoms": "Síntomas",
+        "diagnostic": "Diagnóstico",
+        "treatment": "Tratamiento",
+        "prescription": "Receta",
+        "surgery": false,
+        "doctors": [
+            {
+                "name": "Doctor 1",
+                "comments": "Observaciones"
+            },
+            {
+                "name": "Doctor 2",
+                "comments": "Observaciones"
+            }
+        ],
+        "turn": 1
+    },
+    {
+        "userId": "54d12c6e82f2b7668f5d7042",
+        "symptoms": "Síntomas",
+        "diagnostic": "Diagnóstico",
+        "treatment": "Tratamiento",
+        "prescription": "Receta",
+        "surgery": false,
+        "doctors": [
+            {
+                "name": "Doctor 1",
+                "comments": "Observaciones"
+            },
+            {
+                "name": "Doctor 2",
+                "comments": "Observaciones"
+            }
+        ],
+        "turn": 2
+    },
+    {
+        "userId": "54d12c6e82f2b7668f5d7043",
+        "symptoms": "Síntomas",
+        "diagnostic": "Diagnóstico",
+        "treatment": "Tratamiento",
+        "prescription": "Receta",
+        "surgery": false,
+        "doctors": [
+            {
+                "name": "Doctor 1",
+                "comments": "Observaciones"
+            },
+            {
+                "name": "Doctor 2",
+                "comments": "Observaciones"
+            }
+        ],
+        "turn": 3
+    },
+    {
+        "userId": "54d12c6e82f2b7668f5d7044",
+        "symptoms": "Síntomas",
+        "diagnostic": "Diagnóstico",
+        "treatment": "Tratamiento",
+        "prescription": "Receta",
+        "surgery": false,
+        "doctors": [
+            {
+                "name": "Doctor 1",
+                "comments": "Observaciones"
+            },
+            {
+                "name": "Doctor 2",
+                "comments": "Observaciones"
+            }
+        ],
+        "turn": 4
+    },
+    {
+        "userId": "54d12c6e82f2b7668f5d7045",
+        "symptoms": "Síntomas",
+        "diagnostic": "Diagnóstico",
+        "treatment": "Tratamiento",
+        "prescription": "Receta",
+        "surgery": false,
+        "doctors": [
+            {
+                "name": "Doctor 1",
+                "comments": "Observaciones"
+            },
+            {
+                "name": "Doctor 2",
+                "comments": "Observaciones"
+            }
+        ],
+        "turn": 5
+    }
+]
